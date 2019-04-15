@@ -1,0 +1,16 @@
+PODS:
+  - SJTest (0.1.0)
+
+DEPENDENCIES:
+  - SJTest (from `../`)
+
+EXTERNAL SOURCES:
+  SJTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SJTest: 95697d620dcd5623d2b6f21f988d492f9c63c7c8
+
+PODFILE CHECKSUM: 7b85db32061d4538c46fd37c0cfecd485567bc7d
+
+COCOAPODS: 1.6.1

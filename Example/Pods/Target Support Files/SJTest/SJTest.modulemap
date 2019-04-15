@@ -1,0 +1,6 @@
+framework module SJTest {
+  umbrella header "SJTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
